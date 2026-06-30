@@ -10,8 +10,7 @@ class CfgPatches
         requiredVersion = REQUIRED_VERSION;
         units[] = {};
         weapons[] = {};
-        requiredAddons[] = {
-            "BFSQN_private_core",
+        requiredAddons[] = {,
             "gm_core"
         };
         skipWhenMissingDependencies=1

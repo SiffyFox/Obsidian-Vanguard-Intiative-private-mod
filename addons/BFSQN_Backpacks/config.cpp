@@ -10,7 +10,6 @@ class CfgPatches
         units[] = {};
         weapons[] = {};
         requiredAddons[] = {
-            "BFSQN_private_core"
         };
     };
 };
