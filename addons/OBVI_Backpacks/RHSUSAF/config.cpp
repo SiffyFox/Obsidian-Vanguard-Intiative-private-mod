@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "rhsusf_vehicles"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 
