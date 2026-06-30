@@ -1,0 +1,9 @@
+name = "Obsidian Vanguard Initiative Private Mod";
+picture = "\x\BFSQN_PrivateMod\addons\55th_Ui\Images\55th_SOR_Icon_1.paa";
+logo = "\x\BFSQN_PrivateMod\addons\55th_Ui\Images\55th_SOR_Icon_1.paa";
+logoOver = "\x\BFSQN_PrivateMod\addons\55th_Ui\Images\55th_SOR_Icon_1.paa";
+logoSmall = "\x\BFSQN_PrivateMod\addons\55th_Ui\Images\55th_SOR_Icon_1.paa";
+description = "Obsidian Vanguard Initiative Private Mod";
+author = "Obsidian Vanguard Initiative";
+actionName = "Website";
+action = "https://github.com/SiffyFox/Obsidian-Vanguard-Intiative-private-mod";
