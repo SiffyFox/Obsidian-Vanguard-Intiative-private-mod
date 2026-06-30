@@ -11,7 +11,6 @@ class CfgPatches
         units[] = {};
         weapons[] = {};
         requiredAddons[] = {,
-            "BFSQN_private_backpacks"
         };
     };
 };
