@@ -4,9 +4,9 @@ class CfgPatches
 {
     class ADDON
     {
-        name = "Obsidian Vanguard Initiative Private Mod";
-        author = "Obsidian Vanguard Initiative";
-        requiredVersion = 2.12;
+        name = SPOKE;
+        author = AUTHOR;
+        requiredVersion = REQUIRED_VERSION;
         units[] = {};
         weapons[] = {};
         requiredAddons[] = {

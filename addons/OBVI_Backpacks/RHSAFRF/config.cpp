@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "rhs_main"
         };
-        skipWhenMissingDependencies=1;
+        skipWhenMissingDependencies=1
     };
 };
 
