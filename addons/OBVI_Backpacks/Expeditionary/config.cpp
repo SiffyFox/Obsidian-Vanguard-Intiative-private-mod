@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "EF_Data"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 

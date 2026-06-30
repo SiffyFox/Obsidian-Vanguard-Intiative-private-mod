@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "A3_Aegis_Data_F_Aegis"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 

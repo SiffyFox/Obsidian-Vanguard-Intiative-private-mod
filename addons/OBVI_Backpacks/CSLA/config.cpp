@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "CSLA"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 

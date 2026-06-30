@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "USP_Gear_Pack"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 

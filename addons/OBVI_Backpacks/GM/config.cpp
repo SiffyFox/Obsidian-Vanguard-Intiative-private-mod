@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "gm_core"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 

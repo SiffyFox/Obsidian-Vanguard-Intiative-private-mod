@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "RF_Data"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 

@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "vn_data_f"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 

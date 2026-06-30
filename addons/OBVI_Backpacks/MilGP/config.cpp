@@ -14,7 +14,7 @@ class CfgPatches
             "BFSQN_private_backpacks",
             "milgp_data"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 
