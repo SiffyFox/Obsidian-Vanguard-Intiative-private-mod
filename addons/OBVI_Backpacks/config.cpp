@@ -10,7 +10,6 @@ class CfgPatches
         units[] = {};
         weapons[] = {};
         requiredAddons[] = {
-            "ObsidianVanguardIntiative Private Mod"
         };
     };
 };
