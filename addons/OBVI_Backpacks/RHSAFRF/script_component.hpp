@@ -1,5 +1,5 @@
-#define SPOKE "Blackforce Private Mod - Vanilla Backpack Weights"
-#define COMPONENT private_backpacks_vanilla
+#define SPOKE "Blackforce Private Mod - RHSAFRF Backpack Weights"
+#define COMPONENT private_backpacks_RHSAFRF
 
 #define PREFIX BFSQN
 #define REQUIRED_VERSION 2.12

@@ -5,13 +5,13 @@ class CfgPatches
 {
     class ADDON
     {
-        name = "Obsidian Vanguard Intiative - Vanilla Backpack Weights";
-        author = "Obsidian Vanguard Intiative";
-        requiredVersion = 2.12;
+        name = SPOKE;
+        author = AUTHOR;
+        requiredVersion = REQUIRED_VERSION;
         units[] = {};
         weapons[] = {};
-        requiredAddons[] = {
-            "ObsidianVanguardIntiative Private Mod",
+        requiredAddons[] = {,
+            "BFSQN_private_backpacks"
         };
     };
 };

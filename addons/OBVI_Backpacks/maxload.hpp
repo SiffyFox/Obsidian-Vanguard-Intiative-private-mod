@@ -1,1 +1,1 @@
-#define MAXLOAD 500
+#define MAXLOAD 600
