@@ -13,7 +13,7 @@ class CfgPatches
         requiredAddons[] = {,
             "Weapons_1_F_lxWS"
         };
-        skipWhenMissingDependencies=1
+        skipWhenMissingDependencies=1;
     };
 };
 
